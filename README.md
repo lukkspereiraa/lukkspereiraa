@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou o Lucas Pereira
 
-🎯 Desenvolvedor **Front-End e Mobile**. |
+🎯 Desenvolvedor **Front-End e Mobile** |
 📚 Estudante de Sistemas de Informação | 💼 Foco em Flutter, React, PHP e tecnologias web/mobile.  
 🔗 **Portfólio online**: [👉 Clique aqui para ver](https://portifolio-snowy-one-51.vercel.app)
 
