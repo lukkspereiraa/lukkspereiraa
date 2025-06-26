@@ -1,6 +1,8 @@
-## Ola! Eu sou o Lucas Pereira
+## 👋 Olá! Eu sou o Lucas Pereira
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkspereiraa&show_icons=true&theme=dracula)
+🚀 Acesse meu portfólio: [portifolio-snowy-one-51.vercel.app](https://portifolio-snowy-one-51.vercel.app)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukkspereiraa&show_icons=true&theme=dracula)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukkspereiraa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
@@ -11,9 +13,10 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Lucas-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+
 
 #
 <div> 
