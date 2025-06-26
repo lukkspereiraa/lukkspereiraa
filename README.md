@@ -2,7 +2,7 @@
 
 🎯 Desenvolvedor **Front-End e Mobile** apaixonado por criar interfaces modernas, responsivas e performáticas.  
 📚 Estudante de Sistemas de Informação | 💼 Foco em Flutter, React, PHP e tecnologias web/mobile.  
-🌐 Portfólio: [portifolio-snowy-one-51.vercel.app](https://portifolio-snowy-one-51.vercel.app)
+🚀 Acesse meu portfólio: [portifolio-snowy-one-51.vercel.app](https://portifolio-snowy-one-51.vercel.app)
 
 ---
 
