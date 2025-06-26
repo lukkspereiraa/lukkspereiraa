@@ -26,7 +26,7 @@
 
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lukkspereiraa&show_icons=true&theme=dracula" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkspereiraa&layout=compact&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukkspereiraa&layout=compact&theme=dracula&cache_seconds=1"/>
 </div>
 
 ---
